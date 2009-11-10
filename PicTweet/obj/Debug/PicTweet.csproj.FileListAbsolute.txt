@@ -1,0 +1,14 @@
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.exe.config
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.Contracts.dll
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.Contracts.pdb
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.exe
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.pdb
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\TwiPLi.dll
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\TwiPLi.pdb
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\obj\Debug\ResolveAssemblyReference.cache
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\obj\Debug\PicTweet.Credentials.resources
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\obj\Debug\PicTweet.Form1.resources
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\obj\Debug\PicTweet.Properties.Resources.resources
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\obj\Debug\PicTweet.csproj.GenerateResource.Cache
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\obj\Debug\PicTweet.exe
+P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\obj\Debug\PicTweet.pdb

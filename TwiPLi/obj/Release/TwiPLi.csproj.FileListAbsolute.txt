@@ -1,0 +1,12 @@
+J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Release\TwiPLi.dll
+J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Release\TwiPLi.pdb
+J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Release\ResolveAssemblyReference.cache
+J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Release\TwiPLi.dll
+J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Release\TwiPLi.pdb
+P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Release\ResolveAssemblyReference.cache
+P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Release\TwiPLi.Contracts.dll
+P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Release\TwiPLi.Contracts.pdb
+P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Release\TwiPLi.dll
+P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Release\TwiPLi.pdb
+P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Release\TwiPLi.dll
+P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Release\TwiPLi.pdb
