@@ -1,6 +1,4 @@
 P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.exe.config
-P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.Contracts.dll
-P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.Contracts.pdb
 P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.exe
 P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\PicTweet.pdb
 P:\Projects\dotNET\MyProjects\TwiPLi\PicTweet\bin\Debug\TwiPLi.dll
