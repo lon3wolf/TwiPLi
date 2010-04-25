@@ -3,10 +3,3 @@ J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Debug\TwiPLi.dll
 J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Debug\TwiPLi.pdb
 J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Debug\TwiPLi.dll
 J:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Debug\TwiPLi.pdb
-P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Debug\TwiPLi.Contracts.dll
-P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Debug\TwiPLi.Contracts.pdb
-P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Debug\TwiPLi.dll
-P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\bin\Debug\TwiPLi.pdb
-P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Debug\ResolveAssemblyReference.cache
-P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Debug\TwiPLi.dll
-P:\Projects\dotNET\MyProjects\TwiPLi\TwiPLi\obj\Debug\TwiPLi.pdb
